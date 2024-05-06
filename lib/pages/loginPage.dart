@@ -71,6 +71,7 @@ class LoginPage extends StatelessWidget {
                       ),
                       onPressed: () {
                         Navigator.pushNamed(context,RegisterPage.id);
+
                       },
                     )
                   ],
