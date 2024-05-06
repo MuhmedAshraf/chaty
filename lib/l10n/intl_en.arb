@@ -1,0 +1,8 @@
+{
+  "register": "Register",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "haveNotAccount": "don‘t have an account?",
+  "haveAccount": "already have an account"
+}
